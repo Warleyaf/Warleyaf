@@ -1,5 +1,5 @@
 ## Olá!! Eu sou o Warley 👋🏽
-- 🧑🏽‍💻 Atualmente estou estudando
+- 🧑🏽‍💻 Dev Front-End
   - HTML - CSS - JavaScript - ReactJS - TypeScript
   - E interesse em Node.JS
   
