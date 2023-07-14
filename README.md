@@ -1,6 +1,5 @@
 ## Olá!! Eu sou o Warley 👋🏽
-- 🧑🏽‍💻 Desenvolvedor
-  - HTML - CSS - JavaScript - C# - SQL - DOCKER
+- HTML - CSS - JavaScript - C# - SQL - DOCKER
   
 <div align="center">
   <a href="https://github.com/Warleyaf/WarleyAfonso/">
